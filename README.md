@@ -1,4 +1,7 @@
-# fontkit
+# About
+
+RNFontkit is a fork of [fontkit](https://github.com/foliojs/fontkit) for react native. 
+## fontkit
 
 Fontkit is an advanced font engine for Node and the browser, used by [PDFKit](https://github.com/devongovett/pdfkit). It supports many font formats, advanced glyph substitution and layout features, glyph path extraction, color emoji glyphs, font subsetting, and more.
 

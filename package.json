@@ -1,5 +1,5 @@
 {
-  "name": "fontkit",
+  "name": "rn-fontkit",
   "version": "1.8.1",
   "description": "An advanced font engine for Node and the browser",
   "keywords": [
@@ -35,7 +35,7 @@
     "use.trie",
     "indic.trie"
   ],
-  "author": "Devon Govett <devongovett@gmail.com>",
+  "author": "Kristof Gilicze <kris.gilicze@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -50,6 +50,7 @@
     "deep-equal": "^1.0.0",
     "dfa": "^1.2.0",
     "restructure": "^0.5.3",
+    "rn-fetch-blob": "^0.12.0",
     "tiny-inflate": "^1.0.2",
     "unicode-properties": "^1.2.2",
     "unicode-trie": "^0.3.0"
